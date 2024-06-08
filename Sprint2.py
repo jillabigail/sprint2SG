@@ -1,4 +1,5 @@
 import pickle
+from imblearn.pipeline import Pipeline, make_pipeline
 import pandas as pd
 
 # model deployment
