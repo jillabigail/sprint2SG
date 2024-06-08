@@ -3,7 +3,6 @@ import pandas as pd
 
 # model deployment
 import streamlit as st
-import shap
 import matplotlib.pyplot as plt
 
 # read model and holdout data
