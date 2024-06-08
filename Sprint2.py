@@ -2,7 +2,6 @@ import pickle
 import pandas as pd
 
 # model deployment
-from flask import Flask
 import streamlit as st
 import shap
 import matplotlib.pyplot as plt
