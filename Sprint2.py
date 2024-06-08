@@ -3,7 +3,6 @@ import pandas as pd
 
 # model deployment
 import streamlit as st
-import matplotlib.pyplot as plt
 
 # read model and holdout data
 model = pickle.load(open('gb_sm.pkl', 'rb'))
