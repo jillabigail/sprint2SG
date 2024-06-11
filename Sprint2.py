@@ -1,4 +1,4 @@
-python -m streamlit
+conda install -c conda-forge imbalanced-learn
 import pickle
 from imblearn.pipeline import Pipeline, make_pipeline
 import pandas as pd
